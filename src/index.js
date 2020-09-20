@@ -39,7 +39,7 @@ app.get('/single', async (req, res) => {
         imgs[j] = temp;
     }
 
-    res.status(200).json({
+    res.header("Access-Control-Allow-Origin", "*").status(200).json({
         url: imgs[Math.floor(Math.random() * imgs.length)],
     });
 });

@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="index.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="./src/index.js" working-dir="$PROJECT_DIR$">
+    <envs>
+      <env name="WAIFU_API_PORT" value="3000" />
+      <env name="WAIFU_API_SPACES_KEY" value="WPUQB46EKSHIKFNXWUZ6" />
+      <env name="WAIFU_API_SPACES_SECRET" value="RKh8f50n5HBFQaMll2znggLtwbejjzMYBmdApEypWRY" />
+    </envs>
+    <method v="2" />
+  </configuration>
+</component>
